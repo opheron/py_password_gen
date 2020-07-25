@@ -1,5 +1,5 @@
 from string import ascii_lowercase, ascii_uppercase, digits, punctuation
-from random import choice
+from secrets import choice
 from json import load
 
 # English words pulled from words_dictionary.json in: https://github.com/dwyl/english-words
